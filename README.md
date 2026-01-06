@@ -121,6 +121,23 @@ Unlike methods that rely solely on prediction probability, EAFT utilizes **token
 
 ---
 
+## 🚀 Quick Start
+- **Step 1:** Clone the repository
+```bash
+git clone git@github.com:ymxyll/LlamaFactory-EAFT.git
+cd LlamaFactory-EAFT
+```
+- **Step 2:** Install dependencies
+```bash
+pip install -e .
+```
+- **Step 3:** Run the training script
+```bash
+llamafactory-cli train --config examples/extras/eaft/qwen25_05b_eaft_full.yaml
+```
+
+---
+
 
 ## 🌟 Star History <a id="star-history"></a>
 
