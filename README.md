@@ -26,7 +26,7 @@
 
 ## 📣 Latest News
 
-* **[Coming Soon]** 🚀 **Code Release:** We are currently organizing the code and documentation. **We promise to open-source the training code, scripts, and evaluation pipelines as our top priority.** Please ⭐ Star this repo to stay tuned!
+* **2026.01.06 [Released]** 🚀 **Code Release:** Training code and scripts are now available! Please ⭐ Star this repo to stay tuned!
 
 ---
 
@@ -124,7 +124,7 @@ Unlike methods that rely solely on prediction probability, EAFT utilizes **token
 
 ## 🌟 Star History <a id="star-history"></a>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=anonymous/eaft&Date)](https://star-history.com/#anonymous/eaft&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=PRIS-CV/EAFT&Date)](https://star-history.com/#PRIS-CV/EAFT&Date)
 
 
 
