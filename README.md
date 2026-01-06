@@ -64,9 +64,9 @@ We identify **"Confident Conflicts"** (Low Probability, Low Entropy) as the prim
 
 EAFT introduces an entropy-based gating mechanism to the standard Cross-Entropy loss:
 
-```math
-\mathcal{L}_{EAFT} (\theta) = - \sum_{t=1}^{T} \tilde{H}_t \cdot \log P_\theta(y_t | x, y_{<t})
-```
+
+$$\mathcal{L}_{EAFT} (\theta) = - \sum_{t=1}^{T} \tilde{H}_t \cdot \log P_\theta(y_t | x, y_{<t})$$
+
 
 Where $\tilde{H}_t$ is the **normalized entropy**. This mechanism:
 
@@ -125,5 +125,6 @@ Unlike methods that rely solely on prediction probability, EAFT utilizes **token
 ## 🌟 Star History <a id="star-history"></a>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=anonymous/eaft&Date)](https://star-history.com/#anonymous/eaft&Date)
+
 
 
