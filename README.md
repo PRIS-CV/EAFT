@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🎯 Entropy-Adaptive Fine-Tuning :<br/>: Resolving Confident Conflicts to Mitigate Forgetting
+# 🎯 Entropy-Adaptive Fine-Tuning :<br/> Resolving Confident Conflicts to Mitigate Forgetting
 
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2510.14545-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2601.02151)
@@ -158,6 +158,7 @@ If you find this work helpful for your research, please consider citing our pape
 ## 🌟 Star History <a id="star-history"></a>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PRIS-CV/EAFT&Date)](https://star-history.com/#PRIS-CV/EAFT&Date)
+
 
 
 
