@@ -13,24 +13,23 @@
 
 ## 🗂️ Table of Contents
 
-- [📣 Latest News](#-最新新闻)
-- [📖 Abstract](#-摘要)
-- [⚡ Method: EAFT](#-方法-eaft)
-- [📊 Results](#-实验结果)
-- [🚀 Quick Start](#-快速开始)
-- [📚 Citation](#-引用)
+- [📣 Latest News](#-latest-news)
+- [📖 Abstract](#-abstract)
+- [⚡ Method: EAFT](#-method-eaft)
+- [📊 Results](#-results)
+- [🚀 Quick Start](#-quick-start)
 - [🌟 Star History](#-star-history)
 
 ---
 
 
-## 📣 Latest News
+## 📣 Latest News <a id="latest-news"></a>
 
 * **2026.01.06 [Released]** 🚀 **Code Release:** Training code and scripts are now available! Please ⭐ Star this repo to stay tuned!
 
 ---
 
-## 📖 Abstract
+## 📖 Abstract <a id="abstract"></a>
 
 Supervised Fine-Tuning (SFT) is the standard paradigm for domain adaptation, yet it frequently incurs the cost of **🎯 catastrophic forgetting**. In sharp contrast, on-policy Reinforcement Learning (RL) effectively preserves general capabilities.
 
@@ -121,7 +120,7 @@ Unlike methods that rely solely on prediction probability, EAFT utilizes **token
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Quick Start <a id="quick-start"></a>
 - **Step 1:** Clone the repository
 ```bash
 git clone git@github.com:ymxyll/LlamaFactory-EAFT.git
