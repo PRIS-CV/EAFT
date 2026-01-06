@@ -1,8 +1,7 @@
 
 <div align="center">
 
-# 🎯 Entropy-Adaptive Fine-Tuning (EAFT)
-# Resolving Confident Conflicts to Mitigate Forgetting
+# 🎯 Entropy-Adaptive Fine-Tuning : Resolving Confident Conflicts to Mitigate Forgetting
 
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2510.14545-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2601.02151)
