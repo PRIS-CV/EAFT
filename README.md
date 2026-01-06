@@ -1,12 +1,16 @@
 
 <div align="center">
 
+<img src="assets/final-logo.png" alt="EAFT Logo" width="200"/>
+
 # 🎯 Entropy-Adaptive Fine-Tuning :<br/> Resolving Confident Conflicts to Mitigate Forgetting
 
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2510.14545-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2601.02151)
+[![arXiv](https://img.shields.io/badge/Arxiv-2601.02151-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2601.02151)
+[![Project Page EAFT](https://img.shields.io/badge/Project--Page-EAFT-blue?style=flat)](https://ymxyll.github.io/EAFT/)
 
 
+If you like our project, please give us a star ⭐ on GitHub for the latest update.
 
 </div>
 
@@ -25,6 +29,7 @@
 
 ## 📣 Latest News <a id="latest-news"></a>
 
+* **[Jan 06,2026]** ✨ **Integration:** EAFT has been merged into [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)! You can now use EAFT via `use_eaft_loss` parameter in it.
 * **[Jan 06,2026]** 🚀 **Code Release:** Training code and scripts are now available! Please ⭐ Star this repo to stay tuned!
 
 ---
