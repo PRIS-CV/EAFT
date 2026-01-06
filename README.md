@@ -17,7 +17,7 @@
 - [⚡ Method: EAFT](#method-eaft)
 - [📊 Results](#results)
 - [🚀 Quick Start](#quick-start)
-<!-- - [📝 Citation](#citation) -->
+- [📝 Citation](#citation)
 - [🌟 Star History](#star-history)
 
 ---
@@ -137,20 +137,22 @@ llamafactory-cli train --config examples/extras/eaft/qwen25_05b_eaft_full.yaml
 
 ---
 
-<!-- ## 📝 Citation <a id="citation"></a>
+## 📝 Citation <a id="citation"></a>
 
 If you find this work helpful for your research, please consider citing our paper:
 
 ```bibtex
-@article{diao2026entropy,
-  title={Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting},
-  author={Muxi Diao},
-  journal={arXiv preprint arXiv:2601.02151},
-  year={2026}
+@misc{diao2026entropyadaptivefinetuningresolvingconfident,
+      title={Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting}, 
+      author={Muxi Diao and Lele Yang and Wuxuan Gong and Yutong Zhang and Zhonghao Yan and Yufei Han and Kongming Liang and Weiran Xu and Zhanyu Ma},
+      year={2026},
+      eprint={2601.02151},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2601.02151}, 
 }
-``` -->
-
-<!-- --- -->
+```
+---
 
 
 ## 🌟 Star History <a id="star-history"></a>
