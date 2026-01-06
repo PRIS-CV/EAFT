@@ -25,7 +25,7 @@
 
 ## 📣 Latest News <a id="latest-news"></a>
 
-* **2026.01.06 [Released]** 🚀 **Code Release:** Training code and scripts are now available! Please ⭐ Star this repo to stay tuned!
+* **[Jan 06,2026]** 🚀 **Code Release:** Training code and scripts are now available! Please ⭐ Star this repo to stay tuned!
 
 ---
 
@@ -158,6 +158,7 @@ If you find this work helpful for your research, please consider citing our pape
 ## 🌟 Star History <a id="star-history"></a>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PRIS-CV/EAFT&Date)](https://star-history.com/#PRIS-CV/EAFT&Date)
+
 
 
 
