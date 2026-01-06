@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🎯 Entropy-Adaptive Fine-Tuning EAFT
+# 🎯 Entropy-Adaptive Fine-Tuning (EAFT)
 # Resolving Confident Conflicts to Mitigate Forgetting
 
 
@@ -159,6 +159,7 @@ If you find this work helpful for your research, please consider citing our pape
 ## 🌟 Star History <a id="star-history"></a>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PRIS-CV/EAFT&Date)](https://star-history.com/#PRIS-CV/EAFT&Date)
+
 
 
 
