@@ -4,9 +4,8 @@
 # 🎯 Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting
 
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)](https://pytorch.org/)
+[![arXiv](https://img.shields.io/badge/Arxiv-2510.14545-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2601.02151)
+
 
 
 </div>
@@ -18,6 +17,7 @@
 - [⚡ Method: EAFT](#method-eaft)
 - [📊 Results](#results)
 - [🚀 Quick Start](#quick-start)
+<!-- - [📝 Citation](#citation) -->
 - [🌟 Star History](#star-history)
 
 ---
@@ -136,6 +136,21 @@ llamafactory-cli train --config examples/extras/eaft/qwen25_05b_eaft_full.yaml
 ```
 
 ---
+
+<!-- ## 📝 Citation <a id="citation"></a>
+
+If you find this work helpful for your research, please consider citing our paper:
+
+```bibtex
+@article{diao2026entropy,
+  title={Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting},
+  author={Muxi Diao},
+  journal={arXiv preprint arXiv:2601.02151},
+  year={2026}
+}
+``` -->
+
+<!-- --- -->
 
 
 ## 🌟 Star History <a id="star-history"></a>
