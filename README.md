@@ -13,12 +13,12 @@
 
 ## 🗂️ Table of Contents
 
-- [📣 Latest News](#-latest-news)
-- [📖 Abstract](#-abstract)
-- [⚡ Method: EAFT](#-method-eaft)
-- [📊 Results](#-results)
-- [🚀 Quick Start](#-quick-start)
-- [🌟 Star History](#-star-history)
+- [📣 Latest News](#latest-news)
+- [📖 Abstract](#abstract)
+- [⚡ Method: EAFT](#method-eaft)
+- [📊 Results](#results)
+- [🚀 Quick Start](#quick-start)
+- [🌟 Star History](#star-history)
 
 ---
 
@@ -123,7 +123,7 @@ Unlike methods that rely solely on prediction probability, EAFT utilizes **token
 ## 🚀 Quick Start <a id="quick-start"></a>
 - **Step 1:** Clone the repository
 ```bash
-git clone git@github.com:ymxyll/LlamaFactory-EAFT.git
+git clone https://github.com/ymxyll/LlamaFactory-EAFT.git
 cd LlamaFactory-EAFT
 ```
 - **Step 2:** Install dependencies
