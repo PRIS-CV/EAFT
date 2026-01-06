@@ -1,0 +1,3 @@
+[submodule "LlamaFactory-EAFT"]
+	path = LlamaFactory-EAFT
+	url = git@github.com:ymxyll/LlamaFactory-EAFT.git
