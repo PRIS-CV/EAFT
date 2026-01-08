@@ -8,6 +8,7 @@
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2601.02151-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2601.02151)
 [![Project Page EAFT](https://img.shields.io/badge/Project--Page-EAFT-blue?style=flat)](https://ymxyll.github.io/EAFT/)
+[![HF Daily Paper #1](https://img.shields.io/badge/HF-Daily--Paper1-ffcc00?logo=huggingface)](https://huggingface.co/papers/2601.02151)
 
 
 If you like our project, please give us a star ⭐ on GitHub for the latest update.
@@ -22,13 +23,14 @@ If you like our project, please give us a star ⭐ on GitHub for the latest upda
 - [📊 Results](#results)
 - [🚀 Quick Start](#quick-start)
 - [📝 Citation](#citation)
-- [🌟 Star History](#star-history)
+<!-- - [🌟 Star History](#star-history) -->
 
 ---
 
 
 ## 📣 Latest News <a id="latest-news"></a>
-
+* **[Jan 08,2026]** 🔥 We are honored to be featured as [**🤗 HuggingFace Daily Paper #1**](https://huggingface.co/papers/date/2026-01-08).
+* **[Jan 07,2026]** 📄 Our paper is now available on [arXiv](https://arxiv.org/abs/2601.02151) and [Hugging Face](https://huggingface.co/papers/2601.02151) daily paper.
 * **[Jan 06,2026]** ✨ **Integration:** EAFT has been merged into [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)! You can now use EAFT via `use_eaft_loss` parameter in it.
 * **[Jan 06,2026]** 🚀 **Code Release:** Training code and scripts are now available! Please ⭐ Star this repo to stay tuned!
 
@@ -160,9 +162,9 @@ If you find this work helpful for your research, please consider citing our pape
 ---
 
 
-## 🌟 Star History <a id="star-history"></a>
+<!-- ## 🌟 Star History <a id="star-history"></a>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=PRIS-CV/EAFT&type=Date)](https://star-history.com/#PRIS-CV/EAFT&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=PRIS-CV/EAFT&type=Date)](https://star-history.com/#PRIS-CV/EAFT&Date) -->
 
 
 
