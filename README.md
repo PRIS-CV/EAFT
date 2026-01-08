@@ -149,14 +149,11 @@ llamafactory-cli train --config examples/extras/eaft/qwen25_05b_eaft_full.yaml
 If you find this work helpful for your research, please consider citing our paper:
 
 ```bibtex
-@misc{diao2026entropyadaptivefinetuningresolvingconfident,
-      title={Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting}, 
-      author={Muxi Diao and Lele Yang and Wuxuan Gong and Yutong Zhang and Zhonghao Yan and Yufei Han and Kongming Liang and Weiran Xu and Zhanyu Ma},
-      year={2026},
-      eprint={2601.02151},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2601.02151}, 
+@article{diao2026entropy,
+  title={Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting},
+  author={Diao, Muxi and Yang, Lele and Gong, Wuxuan and Zhang, Yutong and Yan, Zhonghao and Han, Yufei and Liang, Kongming and Xu, Weiran and Ma, Zhanyu},
+  journal={arXiv preprint arXiv:2601.02151},
+  year={2026}
 }
 ```
 ---
@@ -165,6 +162,7 @@ If you find this work helpful for your research, please consider citing our pape
 <!-- ## 🌟 Star History <a id="star-history"></a>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PRIS-CV/EAFT&type=Date)](https://star-history.com/#PRIS-CV/EAFT&Date) -->
+
 
 
 
