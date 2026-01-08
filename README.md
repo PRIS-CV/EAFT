@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/final-logo.png" alt="EAFT Logo" width="800"/>
+<img src="assets/final-logo-2.png" alt="EAFT Logo" width="800"/>
 
 # 🎯 Entropy-Adaptive Fine-Tuning :<br/> Resolving Confident Conflicts to Mitigate Forgetting
 
