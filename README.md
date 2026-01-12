@@ -29,6 +29,7 @@ If you like our project, please give us a star ⭐ on GitHub for the latest upda
 
 
 ## 📣 Latest News <a id="latest-news"></a>
+* **[Jan 12,2026]** 💻 We have implemented EAFT loss in a [ms-swift-EAFT](https://github.com/ymxyll/ms-swift-EAFT) project!
 * **[Jan 08,2026]** 🔥 We are honored to be featured as [**🤗 HuggingFace Daily Paper #1**](https://huggingface.co/papers/date/2026-01-08).
 * **[Jan 07,2026]** 📄 Our paper is now available on [arXiv](https://arxiv.org/abs/2601.02151) and [Hugging Face](https://huggingface.co/papers/2601.02151) daily paper.
 * **[Jan 06,2026]** ✨ **Integration:** EAFT has been merged into [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)! You can now use EAFT via `use_eaft_loss` parameter in it.
@@ -128,6 +129,7 @@ Unlike methods that rely solely on prediction probability, EAFT utilizes **token
 ---
 
 ## 🚀 Quick Start <a id="quick-start"></a>
+### LlamaFactory
 - **Step 1:** Clone the repository
 ```bash
 git clone https://github.com/ymxyll/LlamaFactory-EAFT.git
@@ -142,7 +144,27 @@ pip install -e .
 llamafactory-cli train --config examples/extras/eaft/qwen25_05b_eaft_full.yaml
 ```
 
+### ms-swift
+- **Step 1:** Clone the repository
+```bash
+git clone https://github.com/ymxyll/ms-swift-EAFT.git
+cd ms-swift-EAFT
+```
+- **Step 2:** Install dependencies
+```bash
+pip install -e .
+```
+- **Step 3:** Run the training script
+```bash
+# megatron
+bash examples/megatron/eaft.sh
+# deepspeed
+bash examples/train/eaft.sh
+```
+
+
 ---
+
 
 ## 📝 Citation <a id="citation"></a>
 
