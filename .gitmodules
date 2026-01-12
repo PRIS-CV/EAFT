@@ -1,3 +1,7 @@
 [submodule "LlamaFactory-EAFT"]
 	path = LlamaFactory-EAFT
 	url = git@github.com:ymxyll/LlamaFactory-EAFT.git
+
+[submodule "ms-swift-EAFT"]
+	path = ms-swift-EAFT
+	url = https://github.com/ymxyll/ms-swift-EAFT
